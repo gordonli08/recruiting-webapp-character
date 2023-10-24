@@ -44,3 +44,11 @@
     transform: rotate(360deg);
   }
 }
+
+.applicable-class {
+  color: green;
+}
+
+.stat-button {
+  margin: 0.5em;
+}
